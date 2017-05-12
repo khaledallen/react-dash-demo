@@ -1,3 +1,3 @@
 # Readme
 
-This is simply a skeleton for a React project. It is part of the DevSlopes React Course.
+This is a demo of a React-based Dashboard. Part of the DevSlopes class tutorial
